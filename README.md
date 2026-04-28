@@ -6,7 +6,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red)](https://pytorch.org)
 
 > **PS3 Simulator: Physics-Parametrised Synthetic Sonar for Self-Supervised Sim-to-Real Transfer**  
-> Kamal Basha S  
+> Kamal Basha S, Athira Nambiar  
 > MaCVi Workshop @ CVPR 2026
 
 ---
