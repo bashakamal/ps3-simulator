@@ -32,7 +32,7 @@ Stage 3: Sim-to-Real Evaluation
 ---
 ## 🏗️ Architecture Overview
 
-![PS3Simulator Architecture](./architecture.png)
+![PS3Simulator Architecture](./Architecture.png)
 
 ## Key Results
 
