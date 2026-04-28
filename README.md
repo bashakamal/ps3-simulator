@@ -10,6 +10,18 @@
 > MaCVi Workshop @ CVPR 2026
 
 ---
+## 🖼️ Sample Images
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashakamal/ps3-simulator/main/samples/sss_0007_b_s_1_gravelly_sand_z050_morning_low_right_mid.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/bashakamal/ps3-simulator/main/samples/sss_0108_b_s_7_gravel_z070_afternoon_low_port_fwd_near.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/bashakamal/ps3-simulator/main/samples/sss_0224_b_s_5_gravel_z050_afternoon_mid_stbd_aft_near.png" width="250"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bashakamal/ps3-simulator/main/samples/sss_plane_0414_plane_2_sand_z050_afternoon_low_stbd_fwd_near.png" width="250"/>
+  <img src="https://raw.githubusercontent.com/bashakamal/ps3-simulator/main/samples/sss_plane_0547_plane_2_gravel_z050_morning_low_stbd_mid_near.png" width="250"/>
+</p>
 
 ## Overview
 
