@@ -200,7 +200,7 @@ Pillow>=9.5.0
 @inproceedings{basha2026ps3,
   title     = {PS3 Simulator: Physics-Parametrised Synthetic Sonar 
                for Self-Supervised Sim-to-Real Transfer},
-  author    = {Basha, Kamal S},
+  author    = {Basha, Kamal S; Athira Nambiar},
   booktitle = {MaCVi Workshop @ CVPR},
   year      = {2026}
 }
