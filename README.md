@@ -119,10 +119,17 @@ data/
 
 ## Pretrained Weights
 
-| Model | Pretrain Data | Download |
-|-------|--------------|---------|
-| I-JEPA ViT-S/16 | PS3 Synthetic | [HuggingFace — coming soon] |
-| DINO ViT-S/16 | PS3 Synthetic | [HuggingFace — coming soon] |
+Download from HuggingFace:
+huggingface.co/kamalbasha/ps3-simulator
+
+or in Python:
+```python
+from huggingface_hub import hf_hub_download
+
+path = hf_hub_download(
+    repo_id="kamalbasha/ps3-simulator",
+    filename="jepa-ep200.pth.tar")
+```
 
 ---
 
